@@ -1,4 +1,18 @@
 # serifat-website-
+<!-- Banner -->
+<p align="center">
+  <img src="https:<img src="https://github.com/prinsterlizzy-jpg/serifat-website-/blob/main/images/4D0B60DF-E7F9-44D7-B938-D98BC73F6865.png?raw=true" width="100%" /
+</p>
+
+<h1 align="center">👋 Hi, I'm Akingbade Serifat Bukola</h1>
+<h3 align="center">Python Developer • Frontend Developer • Tech Creative</h3>
+
+<!-- Typing SVG Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=22&center=true&vCenter=true&width=500&lines=Python+Developer;Frontend+Developer;React+%7C+Flask+%7C+JavaScript;Problem+Solver+%7C+Tech+Creative;Welcome+to+My+GitHub+Profile!">
+</p>
+
+---
 🌟 Serifat — Developer Portfolio
 
 Python Developer | Data Analyst | Cloud Computing Enthusiast | Full-Stack Developer
