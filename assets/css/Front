@@ -1,0 +1,53 @@
+/* ============================
+   FONTS
+   ============================ */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Montserrat:wght@600;700;800&family=Fira+Code:wght@300;400&display=swap');
+
+
+/* ============================
+   Apply Fonts
+   ============================ */
+
+body {
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.7;
+    color: #222;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+
+/* Code blocks (if any) */
+code, pre {
+    font-family: 'Fira Code', monospace;
+}
+
+/* Navigation */
+nav, .navbar a {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+/* Buttons */
+button, .btn {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+/* Blog posts */
+.blog-post p,
+.blog-post li {
+    font-size: 17px;
+    line-height: 1.8;
+}
+
+/* Page titles */
+.page-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 42px;
+    font-weight: 800;
+}
