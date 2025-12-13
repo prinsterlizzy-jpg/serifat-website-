@@ -1,7 +1,9 @@
 # serifat-website-
 <!-- Banner -->
 <p align="center">
-  img src="https://github.com/prinsterlizzy-jpg/serifat-website-/blob/main/images/4D0B60DF-E7F9-44D7-B938-D98BC73F6865.png?raw=true" alt="Logo">  </a>
+     <div class="about-img"> 
+		 <img src="https://github.com/prinsterlizzy-jpg/serifat-website-/blob/main/images/IMG_5673.jpeg?raw=true" alt="Serifat photo">
+            </div>
 </p>
 
 <h1 align="center">👋 Hi, I'm Akingbade Serifat Bukola</h1>
