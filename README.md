@@ -1,7 +1,7 @@
 # serifat-website-
 <!-- Banner -->
 <p align="center">
-  <img src="https:<img src="https://github.com/prinsterlizzy-jpg/serifat-website-/blob/main/images/4D0B60DF-E7F9-44D7-B938-D98BC73F6865.png?raw=true" width="100%" /
+  img src="https://github.com/prinsterlizzy-jpg/serifat-website-/blob/main/images/4D0B60DF-E7F9-44D7-B938-D98BC73F6865.png?raw=true" alt="Logo">  </a>
 </p>
 
 <h1 align="center">👋 Hi, I'm Akingbade Serifat Bukola</h1>
@@ -13,131 +13,111 @@
 </p>
 
 ---
-🌟 Serifat — Developer Portfolio
 
-Python Developer | Data Analyst | Cloud Computing Enthusiast | Full-Stack Developer
+Python Developer • Data Analyst • Cloud Computing Enthusiast • Full-Stack Developer
 
-Welcome to my personal portfolio website!
-This project showcases my work, skills, experience, and the services I offer as a growing technology professional.
-
-It is built with HTML, CSS, JavaScript, and fully structured for deployment on Netlify.
+Welcome to my personal developer portfolio!
+This repository contains my projects, skills, services, and now a blog section where I share knowledge on Python, data, cloud, and IT.
 
 ⸻
 
 🚀 Live Demo
 
-👉 Coming Soon… (Will insert Netlify link after deployment)
+🔗 Visit Portfolio on Netlify (Link coming after deployment)
 
-⸻
+🛠️ Tech Stack & Tools
 
-🎯 About This Portfolio
+🔹 About Me
 
-This portfolio contains:
-	•	🏠 Home Page with animated hero
-	•	👩‍💻 About Page – professional bio
-	•	🛠️ Skills Page – tools & technologies
-	•	📂 Projects Page – featured projects
-	•	📄 Individual Project Pages
-	•	💼 Services Page
-	•	✉️ Contact Page (Netlify Form Ready)
-	•	🔗 Fully connected navigation
-	•	🎨 Yellow + White modern design
-	•	⚡ Smooth animations & clean UI
+I’m Serifat Bukola, a passionate developer and tech enthusiast focused on writing clean code, analyzing data, deploying cloud applications, and building efficient full-stack solutions.
+My work includes automation tools, cloud-backed applications, dashboards, and IT-support utilities designed for real-world impact.
 
-⸻
+📝 Blog
 
-🧰 Tech Stack
+My portfolio includes a dedicated blog page where I write about:
+	•	Python tips & best practices
+	•	Data analysis guides (SQL, Pandas, Excel)
+	•	Cloud computing tutorials (AWS)
+	•	Web development & automation
+	•	IT support & troubleshooting
+	•	Career growth in tech
 
-Frontend:
-	•	HTML5
-	•	CSS3
-	•	JavaScript
-	•	GSAP / CSS animations
-	•	Responsive Design (Mobile-First)
+Blog posts are written in a simple, clear, and practical style for beginners and intermediate learners.
 
-Hosting:
-	•	Netlify (recommended)
-	•	GitHub Pages (alternative)
+Blog File Structure:
 
+/blog/
+│── index.html          # Blog home with article previews
+│── python-tips.html
+│── data-analysis.html
+│── cloud-basics.html
+│── it-support.html
+│── ...more posts
 
-📁 Project Structur
+📁 Portfolio Structure
+
 portfolio/
-│── index.html            # Home
-│── about.html            # About Me
+│── index.html            # Home (Animated hero)
+│── about.html            # About
 │── skills.html           # Skills
 │── services.html         # Services
-│── contact.html          # Contact Form (Netlify)
+│── contact.html          # Netlify form
+│
 │── projects/
-│     ├── index.html      # Projects Overview
+│     ├── index.html      # All projects
 │     ├── project1.html
 │     ├── project2.html
-│     ├── project3.html
+│     └── ...
+│
+│── blog/
+│     ├── index.html      # Blog homepage
+│     ├── post1.html
+│     ├── post2.html
 │     └── ...more
 │
 │── assets/
 │     ├── css/style.css
 │     ├── js/script.js
-│     ├── img/
-│     │     ├── profile.png
-│     │     ├── icons/
-│     │     ├── projects/
+│     └── img/
+│          ├── profile.png
+│          ├── banner/
+│          └── projects/
 │
-└── README.md
+│── README.md
+│── LICENSE
 
-
-
-📌 Featured Skills
-	•	Python (Automation, APIs, Backend)
-	•	Data Analysis (Pandas, Excel, SQL)
-	•	Cloud Computing (AWS)
-	•	HTML, CSS, JavaScript
-	•	Git & GitHub
-	•	IT & Technical Support
-
-⸻
+⚡ Pages & Features
+	•	🏠 Animated Home hero
+	•	👤 About page
+	•	🧰 Skills & tools
+	•	📂 Projects + individual pages
+	•	📝 Blog page with articles
+	•	💼 Services page
+	•	✉️ Contact (Netlify form)
+	•	🎨 Modern yellow + white theme
+	•	⚡ Smooth transitions & animations
 
 🌟 Featured Projects
-	•	Python Automation Tools
+	•	Python Automation Scripts
 	•	Data Dashboard & Insights
-	•	Cloud Hosted Applications
-	•	Full-Stack Projects
-	•	Websites and IT Utilities
+	•	AWS Cloud Deployments
+	•	Web Applications
+	•	IT Support Tools
 
-Each project has its own dedicated page inside /projects/.
-
-⸻
+Each project has a dedicated detail page.
 
 📞 Contact
 
-You can reach me through:
-	•	📧 Email: prinsterlizzy@gmail.com
-	•	💼 Portfolio: (Netlify link soon)
-	•	🟦 LinkedIn: (your link)
-	•	🐙 GitHub: https://github.com/prinsterlizzy-jpg
-
-⸻
-
-🏁 Deployment
-
-To deploy on Netlify:
-	1.	Click Deploy to Netlify
-	2.	Upload the folder
-	3.	Netlify will publish instantly
-	4.	Copy your live link and update in this README
-
-  ❤️ License
-
-This project is licensed under the MIT License￼.
-
-⸻
+📧 Email: prinsterlizzy@gmail.com
+🐙 GitHub: https://github.com/prinsterlizzy-jpg
+🌐 Portfolio: (Netlify link soon)
+🔗 LinkedIn: https://linkedin.com/in/akingbade-bukola
 
 📊 GitHub Stats & Visitors
 
-⸻
+❤️ License
 
-❤️ Author
+This project is licensed under the MIT License.
 
-Serifat Akingbade
-Aspiring Data Scientist & Software Developer
-Building solutions with Python, data, and cloud.
+
 
